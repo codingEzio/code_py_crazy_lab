@@ -1,2 +1,5 @@
-# code_py_crazy_lab
-Exploring the ... weird side of Python. 
+### Why 
+- Exploring the fun part of *Python* while recording the learning process.
+
+### Thanks to 
+- [wtfpython](https://github.com/satwikkansal/wtfpython)
